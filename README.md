@@ -1,5 +1,5 @@
-FrontEnd Code
-anggota kelompok:
+FrontEnd Code. 
+OUR TEAM
 1. M Faris Febrian Ramdan TL/BE
 2. Rendra Ramadan SA/BE
 3. Aji Permana TW/FE
